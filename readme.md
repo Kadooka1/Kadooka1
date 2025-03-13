@@ -4,7 +4,7 @@ Eu sou a Pessoa Mais Esperta do Mundo
 
 <p align="center">
   <a href="https://github.com/Kadooka1">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F815433076301429633%2F&psig=AOvVaw0mLfySYylq-X1aiDA-mnsf&ust=1741960938277000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDK7LGch4wDFQAAAAAdAAAAABAE" alt="Enzo Kadooka" /></a>
+    <img src="file:///C:/Users/Dev_1o_Ano/Downloads/index.html" alt="Enzo Kadooka" /></a>
 </p>
 
 <p align="center">
