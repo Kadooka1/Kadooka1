@@ -17,7 +17,7 @@
 
 📚 Sempre aprendendo e evoluindo
 
-# Como Me Encontrar🔎
+*# Como Me Encontrar🔎
 
 <a href="https://www.linkedin.com/in/enzo-kadooka-80707b356/">
 Linkedin
