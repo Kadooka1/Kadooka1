@@ -1,7 +1,5 @@
 ## O Melhor Do Mundo 🌍👑
 
-Eu sou a Pessoa Mais Esperta do Mundo
-
 <p align="center">
   <a href="https://github.com/Kadooka1">
     <img src="https://i.imgur.com/hgxGTeQ.png" alt="Enzo Kadooka" /></a>
