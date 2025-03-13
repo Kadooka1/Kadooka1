@@ -1,4 +1,4 @@
-## O Melhor Do Mundo 🌍👑
+## O Melhor Do Mundo!!
 
 <a href="https://github.com/Kadooka1">
 <img src="https://i.imgur.com/hgxGTeQ.png" alt="Enzo Kadooka" width="350" height="70" /></a>
