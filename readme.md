@@ -3,7 +3,7 @@
 Eu sou a Pessoa Mais Esperta do Mundo
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/Kadooka1">
     <img src="https://github.com/Kadooka1" alt="Enzo Kadooka" /></a>
 </p>
 
