@@ -1,2 +1,2 @@
 ## O Melhor Do Mundo 🌍👑
-Eu sou MANEIRO
+Eu sou a Pessoa Mais Esperta do Mundo
